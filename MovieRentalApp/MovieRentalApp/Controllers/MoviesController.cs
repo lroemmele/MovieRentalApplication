@@ -19,6 +19,7 @@ namespace MovieRentalApp.Controllers
         }
 
 
+
         private IEnumerable<Movie> GetMovies()
         {
             return new List<Movie>
